@@ -73,7 +73,4 @@ public class ProdutoBean implements java.io.Serializable, Comparable<ProdutoBean
 		} else
 		    return 0;
 	}
-	
-	
-
 }
